@@ -1,4 +1,4 @@
-In this folders, I have played woth three datasets: 
+In this folders, I have played with three datasets: 
 - Breast Wiconsin Dataset
 - Concrete Slump Test
 - Abalone Dataset
