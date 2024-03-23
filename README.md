@@ -9,4 +9,3 @@ and other Regression Model such as decision Tree Regression, random Forest regre
 
 I have tried hyperparameters tuning to find the best models with spesifics pair of hyperparameters and add some short analysis for the result. 
 
-There is also a Report for Machine Learning Unit during my Data Science Degree
